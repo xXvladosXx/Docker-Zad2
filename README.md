@@ -1,6 +1,8 @@
 
 Docker-Zad2
 
+TI 6.1 Hutsenko Vladyslav
+
 Diagram:
 ![image](https://user-images.githubusercontent.com/63474317/173767427-597fbf15-d7fc-4ea9-8026-964d89f78b1d.png)
 
