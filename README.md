@@ -12,3 +12,10 @@ To start container write in terminal:
 
 In browser move to:
 `https:/localhost`
+
+Result:
+
+![image](https://user-images.githubusercontent.com/63474317/173768128-c68f7966-98ad-4cd0-bec1-35ebc2120319.png)
+
+
+
